@@ -5,6 +5,9 @@ Esta aplicação foi desenvolvida no "Curso de React: desenvolvendo com JavaScri
 
 Nela iniciei o aprendizado e a aplicação dos conceitos relacionados ao universo do React.
 
+Todo os conteúdos gerados no [GitHub](https://github.com/MKlismann) estão seguindo o modelo de fluxo de trabalho "Git Flow", conforme:
+![Git Flow](./readme-images/gitflow.png)
+
 
 
 # Comandos Utilizados
@@ -25,12 +28,15 @@ Nela iniciei o aprendizado e a aplicação dos conceitos relacionados ao univers
   - Para acessar uma subpasta em relação a pasta atual
 - ls
   - Lista todos os itens dentro da pasta atual
+- cls
+  - Para limpar o terminal
 
 ## Projeto React
 - npx create-react-app <nome_projeto>
-  - Para criar o projeto React com um template padrão de organização de código e recursos.
+  - Para criar o projeto React com um template padrão de organização de código e recursos
 - npm start
-  - Para executar/rodar o código criado
+  - Para executar/rodar a aplicação criada
+
 
 
 # Ferramentas e Recursos Utilizados
@@ -42,9 +48,15 @@ Nela iniciei o aprendizado e a aplicação dos conceitos relacionados ao univers
 
 
 
+# Dicas
+- "./" quer dizer "a partir de onde eu estou"
+
+
+
 # Informações Úteis
 - npx: Gerenciador de pacotes do node para recursos REMOTOS
 - npm: erenciador de pacotes do node para recursos LOCAIS
+
 
 
 # Links Úteis
