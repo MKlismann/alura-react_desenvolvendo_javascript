@@ -74,7 +74,9 @@ Esta aplicação foi desenvolvida no "Curso de React: desenvolvendo com JavaScri
 - npm start
   - Para executar/rodar a aplicação criada
 
+
 ---
+
 
 # Links Úteis
 - Documentação do [React](https://react.dev/reference/react)
